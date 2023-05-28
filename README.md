@@ -1,14 +1,14 @@
-<h1 align="center">💫 Discord Multi Sniper V3 💫</h1>
+<h1 align="center">🌟 Discord Multi Sniper V3 🌟</h1>
 <h3 align="center">Nitro & Giveaway Sniper. Usually snipes in 10 - 50ms</h3>
 <h4 align="center">⭐ Don't forget to leave a star! ⭐</h4>
-<h5 align="center" style="color: green;">ℹ️ Maintained by a community, pull requests are welcome and will be reviewed.</h4>
+<h5 align="center" style="color: green;">ℹ️ Maintained by a christian, pull requests are welcome and will be reviewed.</h4>
 
 ## Features:
 
 - Added giveaway botlist, fixed webhooks
 - Customizable Nitro & Giveaway sniper
 - Giveaway join delay
-- Webhook notifications (Thanks to [@rondDev](https://github.com/rondDev))
+- Webhook notifications
 - Support on alt account
 
 ## News in v2:
@@ -17,7 +17,7 @@
 - Added Support to more giveaway bots
 - Fixed Privnote Sniper
 - More info about Sniped Nitro
-- Added Webhook notifications (Thanks to [@rondDev](https://github.com/rondDev))
+- Added Webhook notifications
 - More customisability
 - Added **use on alt**, that means you can run sniper on alt account and if he snipes nitro, code will be redeemed on other account
 - Removed some useless code
@@ -43,10 +43,10 @@
 redeemed
 ## Settings:
 
-![Settings Showcase](https://i.imgur.com/Bxe3s1Q.png)
+![Settings Showcase](https://cdn.upload.systems/uploads/h9DZCZj7.png)
 
 ## Showcase:
 
-![Showcase](https://i.imgur.com/iEq1pLO.png)
+![Showcase](https://cdn.upload.systems/uploads/wHJCciEI.png)
 
 `WARNING: Using a selfbot is against Discord's TOS, It's not my fault if you get a ban when someone reports you`
