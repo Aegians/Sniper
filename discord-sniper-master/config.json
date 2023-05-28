@@ -1,10 +1,10 @@
 {
-	"token": "NzQyMDU2OTM2MTM2MjQ1MjU5.GeHwfk.3eZu_wbYzSa401FA4Efyeqi4xE1oPm7kPZouFQ",
+	"token": "",
 	"on_alt": false,
 	"reedem_token": "token",
 	"webhook_notification": true,
 	"sound_notification": true,
-	"webhook": "https://discord.com/api/webhooks/1112089506158497812/4Al9XHQK5PVb6ckDn463yWZYK65ctWjswdlcX1D23INLZcY4PTHJQy3bqzypadT5Qb1d",
+	"webhook": "",
 	"delay_enabled": true,
 	"delay": 5,
 	"nitro_sniper": true,
